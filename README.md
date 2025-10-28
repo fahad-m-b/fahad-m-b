@@ -26,7 +26,3 @@
 - Email: [fahadbao2002@gmail.com](mailto:fahadbao2002@gmail.com)  
 - LinkedIn: [linkedin.com/in/fahad-baomar-b1a285213](https://www.linkedin.com/in/fahad-baomar-b1a285213)  
 
----
-
-## 📊 GitHub Stats
-![Fahad's GitHub stats](https://github-readme-stats.vercel.app/api?username=fahadbao&show_icons=true&theme=radical)
