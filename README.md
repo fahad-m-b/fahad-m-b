@@ -1,28 +1,28 @@
-# Hi there 👋, I'm Fahad Mohammed BaOmar
+# Hi there, I'm Fahad Mohammed BaOmar
 
-💻 **Software Engineer | Full-Stack & AI Developer**  
-🌱 Always learning and building innovative projects  
-📍 Based in Salalah, Oman  
+Lead AI & Full-Stack Engineer based in Salalah, Oman. I specialize in designing autonomous AI systems, event-driven microservices, and end-to-end full-stack applications.
 
 ---
 
-## 🚀 About Me
-- Passionate about software development, AI, and automation  
-- Experienced in **Frontend** & **Backend** development  
-- Building **personal projects** to learn and contribute to open-source  
+### What I Do
+
+- **AI Engineering & Automation:** Designing custom AI agents, orchestrating multi-sprint state workflows, and integrating LLMs into web systems.
+- **Full-Stack & Systems Architecture:** Building robust web applications and microservices using event streaming (Debezium, Redpanda), modern databases, and clean API design.
+- **DevOps & Cloud Infrastructure:** Managing server deployments, containerization with Docker, and routing/security infrastructure via Cloudflare.
+- **Technical Leadership:** Coordinating sprint milestones, leading development execution, and maintaining code quality across project pipelines.
 
 ---
 
-## 🛠️ Technologies & Skills
-- **Languages:** Java, C#, Python, PHP, JavaScript, HTML, CSS, SQL, YAML  
-- **Frameworks & Tools:** Laravel, Flutter, Streamlit, Git/GitHub, .NET
-- **Databases:** MySQL, Firebase  
-- **Other:** AI development, Chatbots  
+### Tech Stack & Core Tools
 
+- **Languages:** Python, JavaScript, TypeScript, C#, Java, PHP, SQL
+- **AI & Data Pipelines:** AI Agents, LLM Integrations, Debezium, Redpanda, SurrealDB
+- **Backend & Web:** Laravel, .NET, Streamlit, REST APIs
+- **DevOps & Cloud:** Docker, Cloudflare, Git/GitHub, Linux/Server Admin
 
 ---
 
-## 📫 Contact Me
-- Email: [fahadbao2002@gmail.com](mailto:fahadbao2002@gmail.com)  
-- LinkedIn: [linkedin.com/in/fahad-baomar-b1a285213](https://www.linkedin.com/in/fahad-baomar-b1a285213)  
+### Connect & Reach Me
 
+- **LinkedIn:** [linkedin.com/in/fahad-baomar](https://linkedin.com/in/fahad-baomar-b1a285213)
+- **Email:** fahadbao2002@gmail.com
