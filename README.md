@@ -1,28 +1,54 @@
-# Hi there, I'm Fahad Mohammed BaOmar
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vcenter=true&width=500&lines=Lead+AI+%26+Full-Stack+Engineer;Building+Autonomous+AI+Systems;Event-Driven+Architectures+%26+DevOps" alt="Typing SVG" />
+</div>
 
-Lead AI & Full-Stack Engineer based in Salalah, Oman. I specialize in designing autonomous AI systems, event-driven microservices, and end-to-end full-stack applications.
+<br />
 
----
+### 🚀 About Me
 
-### What I Do
+I am a **Lead AI & Full-Stack Engineer** based in Salalah, Oman. I specialize in designing autonomous AI agents, event-driven microservices, and reliable cloud infrastructure.
 
-- **AI Engineering & Automation:** Designing custom AI agents, orchestrating multi-sprint state workflows, and integrating LLMs into web systems.
-- **Full-Stack & Systems Architecture:** Building robust web applications and microservices using event streaming (Debezium, Redpanda), modern databases, and clean API design.
-- **DevOps & Cloud Infrastructure:** Managing server deployments, containerization with Docker, and routing/security infrastructure via Cloudflare.
-- **Technical Leadership:** Coordinating sprint milestones, leading development execution, and maintaining code quality across project pipelines.
-
----
-
-### Tech Stack & Core Tools
-
-- **Languages:** Python, JavaScript, TypeScript, C#, Java, PHP, SQL
-- **AI & Data Pipelines:** AI Agents, LLM Integrations, Debezium, Redpanda, SurrealDB
-- **Backend & Web:** Laravel, .NET, Streamlit, REST APIs
-- **DevOps & Cloud:** Docker, Cloudflare, Git/GitHub, Linux/Server Admin
+- ⚡ **Current Role:** Leading engineering workflows and system architecture at **Rewan**
+- 🤖 **AI Focus:** Orchestrating multi-sprint state matrices, LLM integrations, and autonomous workflows
+- 🛠️ **Systems & DevOps:** Event streaming (Debezium, Redpanda), SurrealDB, Docker, and Cloudflare
 
 ---
 
-### Connect & Reach Me
+### 🛠️ Tech Stack & Badges
 
-- **LinkedIn:** [linkedin.com/in/fahad-baomar](https://linkedin.com/in/fahad-baomar-b1a285213)
-- **Email:** fahadbao2002@gmail.com
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fahad-m-b&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Fahad's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahad-m-b&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fahad-m-b&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+---
+
+### 📬 Connect With Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/fahad-baomar-b1a285213" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:fahadbao2002@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
