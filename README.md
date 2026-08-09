@@ -7,13 +7,33 @@
 
 <table border="0" width="100%">
   <tr>
-    <td width="50%" valign="top">
-      <h3>Overview & Activity</h3>
+    <td width="52%" valign="top">
+      <h3>Overview & Engineering Scope</h3>
       <p>I am a <b>Lead AI & Full-Stack Engineer</b> based in Salalah, Oman, leading core development workflows, AI integrations, and cloud infrastructure at <b>Rewan</b>.</p>
-      <p>My engineering focus spans autonomous AI agent architectures, production DevOps, and high-availability server deployment.</p>
-      <p>As the primary deployment engineer at Rewan, I manage <b>40%+</b> of internal server operations, Cloudflare routing, and CI/CD pipelines while leading project execution across engineering teams.</p>
+      <p>My engineering focus spans autonomous AI agent architectures, production DevOps, and high-availability server deployment. As the primary deployment engineer at Rewan, I manage <b>40%+</b> of internal server operations, Cloudflare routing, and CI/CD pipelines while leading project execution across engineering teams.</p>
+      
+      <hr/>
+
+      <h4>Key Technical Focus Areas</h4>
+      <ul>
+        <li><b>Agentic AI & LLMs:</b> Custom workflows, RAG systems, and Microsoft AutoGen / Agent Framework.</li>
+        <li><b>DevOps Lead:</b> Managing 40%+ server infrastructure, containerization, and Cloudflare configuration.</li>
+        <li><b>Full-Stack:</b> Enterprise application development in Python, .NET, Laravel, C#, and TypeScript.</li>
+        <li><b>Hardware & Robotics:</b> Embedded systems, edge computing, and personal autonomous builds.</li>
+      </ul>
+
+      <hr/>
+
+      <p align="left">
+        <a href="https://linkedin.com/in/fahad-baomar-b1a285213" target="_blank">
+          <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+        </a>
+        <a href="mailto:fahadbao2002@gmail.com">
+          <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+        </a>
+      </p>
     </td>
-    <td width="50%" valign="top" align="center">
+    <td width="48%" valign="top" align="center">
       <img src="https://raw.githubusercontent.com/fahad-m-b/fahad-m-b/main/github-metrics.svg" alt="GitHub Metrics" width="100%" />
     </td>
   </tr>
@@ -58,44 +78,19 @@
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h4>Key Technical Focus Areas</h4>
-      <ul>
-        <li><b>Agentic AI & LLMs:</b> Custom workflows, RAG systems, and Microsoft AutoGen / Agent Framework.</li>
-        <li><b>DevOps Lead:</b> Managing 40%+ server infrastructure, containerization, and Cloudflare configuration.</li>
-        <li><b>Full-Stack:</b> Enterprise application development in Python, .NET, Laravel, C#, and TypeScript.</li>
-        <li><b>Hardware & Robotics:</b> Embedded systems, edge computing, and personal autonomous software builds.</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
       <h4>Currently Exploring & Building</h4>
       <ul>
         <li><b>Agentic Architectures:</b> Advanced multi-agent orchestration models and memory retention in LLMs.</li>
         <li><b>Embedded & Edge AI:</b> Local model execution on hardware platforms and microcontrollers.</li>
       </ul>
     </td>
+    <td width="50%" valign="top">
+      <h4>Certifications</h4>
+      <ul>
+        <li><b>Building AI Agents & Workflows</b> — IBM (Mar 2026)</li>
+        <li><b>Business Analysis Fundamentals</b> — Microsoft (Feb 2026)</li>
+        <li><b>Agile Project Management</b> — Google (Jan 2026)</li>
+      </ul>
+    </td>
   </tr>
 </table>
-
-<br/>
-
-### Certifications
-
-- **Building AI Agents and Agentic Workflows** — *IBM (Issued Mar 2026)*
-  - *Focus:* Retrieval-Augmented Generation (RAG), Agentic Systems
-- **Business Analysis Fundamentals** — *Microsoft (Issued Feb 2026)*
-  - *Focus:* Business Analysis, Software Requirements Specification
-- **Agile Project Management** — *Google (Issued Jan 2026)*
-  - *Focus:* Agile Execution, Sprint Management, Team Operations
-
----
-
-### Connect & Contact
-
-<p align="left">
-  <a href="https://linkedin.com/in/fahad-baomar-b1a285213" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:fahadbao2002@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
