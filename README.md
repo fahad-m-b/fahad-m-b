@@ -6,7 +6,7 @@
 
 ### Overview
 
-I am a **Lead AI & Full-Stack Engineer** based in Salalah, Oman, leading core development workflows, AI integrations, and cloud infrastructure at **Rewan**. 
+I am a **Lead AI & Full-Stack Engineer** based in Salalah, Oman, leading core development workflows, AI integrations, and cloud infrastructure at **Rewan**.
 
 My engineering focus spans autonomous AI agent architectures, production DevOps, and high-availability server deployment. As the primary deployment engineer at Rewan, I manage 40%+ of internal server operations, Cloudflare routing, and continuous integration pipelines while leading project execution across engineering teams.
 
@@ -14,26 +14,44 @@ My engineering focus spans autonomous AI agent architectures, production DevOps,
 
 ### Featured Project
 
-#### **Archi** — AI-Powered Project Orchestration & Product Management Platform
-- **Architecture:** Designed as an intelligent project management ecosystem integrating smart Kanban boards, automated legacy backlog migrations, and real-time build pipeline dashboards.
-- **AI Capabilities:** Powered by native AI agents and agentic frameworks to automate task creation, acceptance criteria generation, and direct codebase execution from specifications.
-- **DevOps & Infrastructure:** Architected end-to-end deployment workflows, build pipelines, and server provisioning.
+<table>
+  <tr>
+    <td>
+      <h4>Archi — AI-Powered Project Orchestration Platform</h4>
+      <p>An enterprise product management platform integrating smart Kanban boards, automated backlog migrations, and live build pipeline dashboards.</p>
+      <ul>
+        <li><b>Architecture:</b> Intelligent project management ecosystem designed for modern software teams.</li>
+        <li><b>AI Capabilities:</b> Native AI agents and agentic frameworks automate task creation, acceptance criteria generation, and direct codebase execution from specifications.</li>
+        <li><b>DevOps & Infrastructure:</b> Architected end-to-end deployment workflows, build pipelines, and server provisioning.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### Key Technical Focus Areas
+### Technical Capabilities & Focus
 
-- **Agentic AI & LLMs:** Custom AI agent workflows, Retrieval-Augmented Generation (RAG), and agentic frameworks (Microsoft AutoGen / Agent Framework).
-- **DevOps & Infrastructure Lead:** Primary owner for deployment pipelines, managing 40%+ of server infrastructure, containerization, and Cloudflare configuration.
-- **Full-Stack & Systems Engineering:** Enterprise application development in Python, .NET, Laravel, C#, and JavaScript/TypeScript.
-- **Hardware & Robotics Exploration:** Hands-on development with embedded systems, edge computing, and personal autonomous software builds.
-
----
-
-### Currently Exploring & Building
-
-- **Agentic Architectures:** Advanced multi-agent orchestration models and memory retention in LLMs.
-- **Embedded & Edge AI:** Experimenting with local model execution on hardware platforms and microcontrollers.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>Key Technical Focus Areas</h4>
+      <ul>
+        <li><b>Agentic AI & LLMs:</b> Custom workflows, RAG systems, and Microsoft AutoGen / Agent Framework.</li>
+        <li><b>DevOps Lead:</b> Managing 40%+ server infrastructure, containerization, and Cloudflare configuration.</li>
+        <li><b>Full-Stack:</b> Enterprise application development in Python, .NET, Laravel, C#, and TypeScript.</li>
+        <li><b>Hardware & Robotics:</b> Embedded systems, edge computing, and personal autonomous software builds.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>Currently Exploring & Building</h4>
+      <ul>
+        <li><b>Agentic Architectures:</b> Advanced multi-agent orchestration models and memory retention in LLMs.</li>
+        <li><b>Embedded & Edge AI:</b> Local model execution on hardware platforms and microcontrollers.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -67,7 +85,7 @@ My engineering focus spans autonomous AI agent architectures, production DevOps,
 ### GitHub Metrics Dashboard
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/fahad-m-b/fahad-m-b/main/github-metrics.svg" alt="GitHub Metrics" width="100%" />
+  <img src="https://raw.githubusercontent.com/fahad-m-b/fahad-m-b/main/github-metrics.svg" alt="GitHub Metrics" width="80%" />
 </div>
 
 ---
