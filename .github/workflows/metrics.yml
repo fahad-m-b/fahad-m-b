@@ -13,19 +13,12 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           user: fahad-m-b
           template: classic
-          base: header, activity, community, repositories, metadata
+          base: header, activity
           config_timezone: Asia/Muscat
-          config_padding: 0, 8
           
-          # Languages plugin (compact layout)
+          # Compact Top Languages bar only
           plugin_languages: yes
           plugin_languages_colors: github
-          plugin_languages_limit: 8
-          plugin_languages_recent_load: 300
-          plugin_languages_recent_days: 14
+          plugin_languages_limit: 6
           plugin_languages_sections: most-used
           plugin_languages_details: percentage
-          
-          # Isometric 3D calendar grid
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: half-year
