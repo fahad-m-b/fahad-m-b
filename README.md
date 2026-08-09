@@ -8,18 +8,12 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-
-I am a **Lead AI & Full-Stack Engineer** based in Salalah, Oman, leading core development workflows, AI integrations, and cloud infrastructure at **Rewan**.
-
-My engineering focus spans autonomous AI agent architectures, production DevOps, and high-availability server deployment.
-
-As the primary deployment engineer at Rewan, I manage **40%+** of internal server operations, Cloudflare routing, and CI/CD pipelines while leading project execution across engineering teams.
-
+      <p>I am a <b>Lead AI & Full-Stack Engineer</b> based in Salalah, Oman, leading core development workflows, AI integrations, and cloud infrastructure at <b>Rewan</b>.</p>
+      <p>My engineering focus spans autonomous AI agent architectures, production DevOps, and high-availability server deployment.</p>
+      <p>As the primary deployment engineer at Rewan, I manage <b>40%+</b> of internal server operations, Cloudflare routing, and CI/CD pipelines while leading project execution across engineering teams.</p>
     </td>
     <td width="50%" valign="top" align="center">
-
-![GitHub Metrics](https://raw.githubusercontent.com/fahad-m-b/fahad-m-b/main/github-metrics.svg)
-
+      <img src="https://raw.githubusercontent.com/fahad-m-b/fahad-m-b/main/github-metrics.svg" alt="GitHub Metrics" width="100%" />
     </td>
   </tr>
 </table>
