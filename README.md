@@ -3,11 +3,26 @@
 
 ---
 
-### Overview & Engineering Scope
+### Overview & Activity
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
 
 I am a **Lead AI & Full-Stack Engineer** based in Salalah, Oman, leading core development workflows, AI integrations, and cloud infrastructure at **Rewan**.
 
-My engineering focus spans autonomous AI agent architectures, production DevOps, and high-availability server deployment. As the primary deployment engineer at Rewan, I manage **40%+** of internal server operations, Cloudflare routing, and CI/CD pipelines while leading project execution across engineering teams.
+My engineering focus spans autonomous AI agent architectures, production DevOps, and high-availability server deployment.
+
+As the primary deployment engineer at Rewan, I manage **40%+** of internal server operations, Cloudflare routing, and CI/CD pipelines while leading project execution across engineering teams.
+
+    </td>
+    <td width="50%" valign="top" align="center">
+
+![GitHub Metrics](https://raw.githubusercontent.com/fahad-m-b/fahad-m-b/main/github-metrics.svg)
+
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -54,12 +69,6 @@ An enterprise product management platform integrating smart Kanban boards, autom
 - **Building AI Agents & Workflows** — IBM (Issued Mar 2026)
 - **Business Analysis Fundamentals** — Microsoft (Issued Feb 2026)
 - **Agile Project Management** — Google (Issued Jan 2026)
-
----
-
-### GitHub Metrics Dashboard
-
-![GitHub Metrics](https://raw.githubusercontent.com/fahad-m-b/fahad-m-b/main/github-metrics.svg)
 
 ---
 
