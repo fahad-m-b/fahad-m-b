@@ -3,29 +3,36 @@
 
 ---
 
-### Overview & Activity
+### Overview & Focus
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <p>I am a <b>Lead AI & Full-Stack Engineer</b> based in Salalah, Oman, leading core development workflows, AI integrations, and cloud infrastructure at <b>Rewan</b>.</p>
-      <p>My engineering focus spans autonomous AI agent architectures, production DevOps, and high-availability server deployment.</p>
-      <p>As the primary deployment engineer at Rewan, I manage <b>40%+</b> of internal server operations, Cloudflare routing, and CI/CD pipelines while leading project execution across engineering teams.</p>
+      <p>My engineering focus spans autonomous AI agent architectures, production DevOps, and high-availability server deployment. As primary deployment engineer at Rewan, I manage <b>40%+</b> of internal server operations, alongside deployment pipelines and Cloudflare configurations.</p>
+      <br/>
+      <p><b>Key Focus Areas:</b></p>
+      <ul>
+        <li><b>Agentic AI & LLMs:</b> Custom workflows, RAG systems, and Microsoft AutoGen / Agent Framework.</li>
+        <li><b>DevOps & Infrastructure:</b> Server operations, containerization, and build pipelines.</li>
+        <li><b>Full-Stack:</b> Enterprise application development in Python, .NET, Laravel, C#, and TypeScript.</li>
+        <li><b>Hardware & Robotics:</b> Embedded systems, edge computing, and autonomous builds.</li>
+      </ul>
+      <br/>
+      <p align="left">
+        <a href="https://linkedin.com/in/fahad-baomar-b1a285213" target="_blank">
+          <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+        </a>
+        <a href="mailto:fahadbao2002@gmail.com">
+          <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+        </a>
+      </p>
     </td>
     <td width="50%" valign="top" align="center">
       <img src="https://raw.githubusercontent.com/fahad-m-b/fahad-m-b/main/github-metrics.svg" alt="GitHub Metrics" width="100%" />
     </td>
   </tr>
 </table>
-
----
-
-### Key Technical Focus Areas
-
-- **Agentic AI & LLMs:** Custom workflows, RAG systems, and Microsoft AutoGen / Agent Framework.
-- **DevOps Lead:** Managing 40%+ server infrastructure, containerization, and Cloudflare configuration.
-- **Full-Stack:** Enterprise application development in Python, .NET, Laravel, C#, and TypeScript.
-- **Hardware & Robotics:** Embedded systems, edge computing, and personal autonomous builds.
 
 ---
 
@@ -36,7 +43,7 @@ An enterprise product management platform integrating smart Kanban boards, autom
 
 - **Architecture:** Intelligent project management ecosystem designed for modern software teams.
 - **AI Capabilities:** Native AI agents and agentic frameworks automate task creation, acceptance criteria generation, and direct codebase execution from specifications.
-- **DevOps & Infrastructure:** Architected end-to-end deployment workflows, build pipelines, and server provisioning.
+- **DevOps & Infrastructure:** Architected deployment workflows, build pipelines, and server provisioning.
 
 ---
 
@@ -63,16 +70,3 @@ An enterprise product management platform integrating smart Kanban boards, autom
 - **Building AI Agents & Workflows** — IBM (Issued Mar 2026)
 - **Business Analysis Fundamentals** — Microsoft (Issued Feb 2026)
 - **Agile Project Management** — Google (Issued Jan 2026)
-
----
-
-### Connect & Contact
-
-<p align="left">
-  <a href="https://linkedin.com/in/fahad-baomar-b1a285213" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:fahadbao2002@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
