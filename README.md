@@ -57,6 +57,12 @@ An enterprise product management platform integrating smart Kanban boards, autom
 
 ---
 
+### GitHub Metrics Dashboard
+
+![GitHub Metrics](https://raw.githubusercontent.com/fahad-m-b/fahad-m-b/main/github-metrics.svg)
+
+---
+
 ### Connect & Contact
 
 <p align="left">
