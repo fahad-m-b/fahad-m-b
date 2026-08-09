@@ -30,6 +30,13 @@ My engineering focus spans autonomous AI agent architectures, production DevOps,
 
 ---
 
+### Currently Exploring & Building
+
+- **Agentic Architectures:** Advanced multi-agent orchestration models and memory retention in LLMs.
+- **Embedded & Edge AI:** Experimenting with local model execution on hardware platforms and microcontrollers.
+
+---
+
 ### Certifications
 
 - **Building AI Agents and Agentic Workflows** — IBM (Issued Mar 2026)
@@ -54,6 +61,14 @@ My engineering focus spans autonomous AI agent architectures, production DevOps,
   <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
+
+---
+
+### GitHub Metrics Dashboard
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/fahad-m-b/fahad-m-b/main/github-metrics.svg" alt="GitHub Metrics" width="100%" />
+</div>
 
 ---
 
