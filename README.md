@@ -1,32 +1,51 @@
+<!-- HEADER BANNER -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vcenter=true&width=600&lines=Lead+AI+%26+Full-Stack+Engineer;DevOps+%26+Cloud+Infrastructure+Lead;Agentic+AI+%26+LLM+Architecture" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D2FF,100:3A7BD5&height=200&section=header&text=DevOps%20%26%20Cloud%20Infrastructure&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
 </div>
 
-<br />
+<br/>
 
-### Overview & Activity
-
-<table>
+<!-- OVERVIEW & METRICS GRID -->
+<table border="0" width="100%">
   <tr>
     <td width="55%" valign="top">
-      <p>I am a <b>Lead AI & Full-Stack Engineer</b> based in Salalah, Oman, leading core development workflows, AI integrations, and cloud infrastructure at <b>Rewan</b>.</p>
+      <h3>🚀 Overview & Activity</h3>
+      <p>I am a <b>Lead AI & Full-Stack Engineer</b> based in Salalah, Oman, leading core development workflows, AI integrations, and cloud infrastructure at Rewan.</p>
       <p>My engineering focus spans autonomous AI agent architectures, production DevOps, and high-availability server deployment.</p>
-      <p>As the primary deployment engineer at Rewan, I manage 40%+ of internal server operations, Cloudflare routing, and continuous integration pipelines while leading project execution across engineering teams.</p>
+      <p>As the primary deployment engineer at Rewan, I manage <b>40%+</b> of internal server operations, Cloudflare routing, and CI/CD pipelines while leading project execution across engineering teams.</p>
     </td>
     <td width="45%" valign="top" align="center">
-      <img src="https://raw.githubusercontent.com/fahad-m-b/fahad-m-b/main/github-metrics.svg" alt="GitHub Metrics" width="100%" />
+      <img src="https://github-readme-stats.vercel.app/api?username=fahad-m-b&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="100%" />
     </td>
   </tr>
 </table>
 
+<br/>
+
+<!-- TECH STACK BADGES -->
+### 🛠 Tech Stack & Ecosystem
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
+</p>
+
 ---
 
-### Featured Project
+<!-- FEATURED PROJECT CARD -->
+### 🌟 Featured Project
 
-<table>
+<table width="100%">
   <tr>
     <td>
-      <h4>Archi — AI-Powered Project Orchestration Platform</h4>
+      <h4>⚡ Archi — AI-Powered Project Orchestration Platform</h4>
       <p>An enterprise product management platform integrating smart Kanban boards, automated backlog migrations, and live build pipeline dashboards.</p>
       <ul>
         <li><b>Architecture:</b> Intelligent project management ecosystem designed for modern software teams.</li>
@@ -37,14 +56,13 @@
   </tr>
 </table>
 
----
+<br/>
 
-### Technical Capabilities & Focus
-
-<table>
+<!-- SIDE-BY-SIDE CAPABILITIES GRID -->
+<table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h4>Key Technical Focus Areas</h4>
+      <h4>🎯 Key Technical Focus Areas</h4>
       <ul>
         <li><b>Agentic AI & LLMs:</b> Custom workflows, RAG systems, and Microsoft AutoGen / Agent Framework.</li>
         <li><b>DevOps Lead:</b> Managing 40%+ server infrastructure, containerization, and Cloudflare configuration.</li>
@@ -53,7 +71,7 @@
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h4>Currently Exploring & Building</h4>
+      <h4>🧪 Currently Exploring & Building</h4>
       <ul>
         <li><b>Agentic Architectures:</b> Advanced multi-agent orchestration models and memory retention in LLMs.</li>
         <li><b>Embedded & Edge AI:</b> Local model execution on hardware platforms and microcontrollers.</li>
@@ -62,42 +80,21 @@
   </tr>
 </table>
 
----
+<br/>
 
-### Certifications
+<!-- CERTIFICATIONS SECTION -->
+### 📜 Certifications
 
-- **Building AI Agents and Agentic Workflows** — IBM (Issued Mar 2026)
-  - *Focus:* Retrieval-Augmented Generation (RAG), Agentic Systems
-- **Business Analysis Fundamentals** — Microsoft (Issued Feb 2026)
-  - *Focus:* Business Analysis, Software Requirements Specification
-- **Agile Project Management** — Google (Issued Jan 2026)
-  - *Focus:* Agile Execution, Sprint Management, Team Operations
+* 🎓 **Building AI Agents and Agentic Workflows** — *IBM (Issued Mar 2026)*
+  * *Focus:* Retrieval-Augmented Generation (RAG), Agentic Systems
+* 🎓 **Business Analysis Fundamentals** — *Microsoft (Issued Feb 2026)*
+  * *Focus:* Business Analysis, Software Requirements Specification
+* 🎓 **Agile Project Management** — *Google (Issued Jan 2026)*
+  * *Focus:* Agile Execution, Sprint Management, Team Operations
 
----
+<br/>
 
-### Technical Skill Matrix
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-</p>
-
----
-
-### Connect & Contact
-
-<p align="left">
-  <a href="https://linkedin.com/in/fahad-baomar-b1a285213" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:fahadbao2002@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+<!-- STATS CARDS BOTTOM -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahad-m-b&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
