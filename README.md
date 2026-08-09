@@ -4,17 +4,17 @@
 
 <br />
 
-### 🚀 About Me
+### About Me
 
-I am a **Lead AI & Full-Stack Engineer** based in Salalah, Oman. I specialize in designing autonomous AI agents, event-driven microservices, and reliable cloud infrastructure.
+I am a Lead AI & Full-Stack Engineer based in Salalah, Oman. I specialize in designing autonomous AI agents, event-driven microservices, and reliable cloud infrastructure.
 
-- ⚡ **Current Role:** Leading engineering workflows and system architecture at **Rewan**
-- 🤖 **AI Focus:** Orchestrating multi-sprint state matrices, LLM integrations, and autonomous workflows
-- 🛠️ **Systems & DevOps:** Event streaming (Debezium, Redpanda), SurrealDB, Docker, and Cloudflare
+- Current Role: Leading engineering workflows and system architecture at Rewan
+- AI Focus: Orchestrating multi-sprint state matrices, LLM integrations, and autonomous workflows
+- Systems & DevOps: Event streaming (Debezium, Redpanda), SurrealDB, Docker, and Cloudflare
 
 ---
 
-### 🛠️ Tech Stack & Badges
+### Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -27,28 +27,22 @@ I am a **Lead AI & Full-Stack Engineer** based in Salalah, Oman. I specialize in
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fahad-m-b&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Fahad's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=fahad-m-b&show_icons=true&theme=tokyonight&hide_border=true" alt="Fahad's GitHub Stats" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahad-m-b&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fahad-m-b&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
 
-### 📬 Connect With Me
+### Connect With Me
 
 <p align="left">
   <a href="https://linkedin.com/in/fahad-baomar-b1a285213" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:fahadbao2002@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
