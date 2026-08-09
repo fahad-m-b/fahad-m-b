@@ -4,11 +4,20 @@
 
 <br />
 
-### Overview
+### Overview & Activity
 
-I am a **Lead AI & Full-Stack Engineer** based in Salalah, Oman, leading core development workflows, AI integrations, and cloud infrastructure at **Rewan**.
-
-My engineering focus spans autonomous AI agent architectures, production DevOps, and high-availability server deployment. As the primary deployment engineer at Rewan, I manage 40%+ of internal server operations, Cloudflare routing, and continuous integration pipelines while leading project execution across engineering teams.
+<table>
+  <tr>
+    <td width="55%" valign="top">
+      <p>I am a <b>Lead AI & Full-Stack Engineer</b> based in Salalah, Oman, leading core development workflows, AI integrations, and cloud infrastructure at <b>Rewan</b>.</p>
+      <p>My engineering focus spans autonomous AI agent architectures, production DevOps, and high-availability server deployment.</p>
+      <p>As the primary deployment engineer at Rewan, I manage 40%+ of internal server operations, Cloudflare routing, and continuous integration pipelines while leading project execution across engineering teams.</p>
+    </td>
+    <td width="45%" valign="top" align="center">
+      <img src="https://raw.githubusercontent.com/fahad-m-b/fahad-m-b/main/github-metrics.svg" alt="GitHub Metrics" width="100%" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -79,14 +88,6 @@ My engineering focus spans autonomous AI agent architectures, production DevOps,
   <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
-
----
-
-### GitHub Metrics Dashboard
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/fahad-m-b/fahad-m-b/main/github-metrics.svg" alt="GitHub Metrics" width="80%" />
-</div>
 
 ---
 
